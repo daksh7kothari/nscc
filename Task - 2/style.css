@@ -2,4 +2,51 @@
     margin: 0;
     padding: 0;
 }
-
+body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f4f4f9;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.quiz-container {
+  display: grid;
+  gap: 20px;
+  max-width: 700px;
+  margin: auto;
+}
+.question-box {
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.question-box h3 {
+  margin-bottom: 10px;
+}
+.option {
+  display: block;
+  margin: 5px 0;
+}
+#submit {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+#submit:hover {
+  background: #45a049;
+}
+#result {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
