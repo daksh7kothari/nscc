@@ -17,10 +17,11 @@ Both are implemented using **HTML, CSS, and JavaScript**, deployed live, and pus
 - Full **form field checks** (empty fields, invalid email, weak password)  
 - Responsive and modern UI  
 
+## Task 2: Small quiz game \
+
 ### ✅ Features
-- Password is **hashed** (SHA-256) before submission  
-- **Regex validation** for email and password  
-- Full **form field checks** (empty fields, invalid email, weak password)  
+- Total score is calculated  
+- Implemented using **HTML, CSS, and JavaScript**, deployed live, and pushed to GitHub.   
 - Responsive and modern UI  
 
 ### Screenshots - From webpage  
