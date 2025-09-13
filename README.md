@@ -16,16 +16,18 @@ Both are implemented using **HTML, CSS, and JavaScript**, deployed live, and pus
 - **Regex validation** for email and password  
 - Full **form field checks** (empty fields, invalid email, weak password)  
 - Responsive and modern UI  
+Link - https://nscc-task1.vercel.app/
 
-## Task 2: Small quiz game \
+## Task 2: Small quiz game
 
 ### ✅ Features
 - Total score is calculated  
 - Implemented using **HTML, CSS, and JavaScript**, deployed live, and pushed to GitHub.   
 - Responsive and modern UI  
+Link - https://nscc-taks2.vercel.app/
 
 ### Screenshots - From webpage  
-![Uploading {500F8046-8711-4FEF-9148-1B014A093436}.png…]()
+<img width="755" height="542" alt="Screenshot 2025-09-13 214849" src="https://github.com/user-attachments/assets/32ec3235-5fee-4cbd-b851-15fa6a66adcb" />
 <img width="872" height="282" alt="Screenshot 2025-09-13 214514" src="https://github.com/user-attachments/assets/d9a89d5c-eaea-4769-808f-26abf7ddf342" />
 <img width="756" height="536" alt="Screenshot 2025-09-13 214825" src="https://github.com/user-attachments/assets/d15a687a-45fe-4c4f-a68a-83af0988f2f6" />
 <img width="872" height="623" alt="Screenshot 2025-09-13 214904" src="https://github.com/user-attachments/assets/a4bd2846-f128-45a9-b691-1eaf4cac4267" />
